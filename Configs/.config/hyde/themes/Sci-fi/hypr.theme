@@ -10,9 +10,9 @@ $FONT_NAME=Iosevka Nerd Font Mono
 exec = gsettings set org.gnome.desktop.interface icon-theme 'cyberpunk-technotronic-icon-theme'
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'Sci-fi'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-exec = gsettings set org.gnome.desktop.interface font-name 'CaskaydiaCove Nerd Font'
+exec = gsettings set org.gnome.desktop.interface font-name 'Iosevka Nerd Font Mono'
 exec = gsettings set org.gnome.desktop.interface cursor-theme 'Bibata-Modern-Classic'
-exec = hyprctl setcursor Bibata-Modern-Classic 20     
+exec = hyprctl setcursor Bibata-Modern-Classic 20
 exec = gsettings set org.gnome.desktop.interface cursor-size 20
 
 general {
